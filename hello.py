@@ -2,4 +2,4 @@ print("hello world")
 
 
 import math
-marh.factorial(5)
+math.factorial(5)
